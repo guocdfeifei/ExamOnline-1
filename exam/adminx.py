@@ -10,8 +10,8 @@ from xadmin.views import CommAdminView, BaseAdminView
 
 class GlobalSetting(object):
     # 全局设置
-    site_title = 'Python在线考试后台管理系统'
-    site_footer = 'Design by Pengshengfu'
+    site_title = '在线考试后台管理系统'
+    site_footer = '山西琪睿科技有限公司'
     # 菜单默认收缩
     # menu_style = 'accordion'
 
